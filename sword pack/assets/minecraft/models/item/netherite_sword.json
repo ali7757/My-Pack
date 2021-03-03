@@ -1,0 +1,20 @@
+{
+"parent": "item/handheld",
+"textures": {
+"layer0": "item/netherite_sword"
+},
+
+"overrides": [
+{"predicate": {"custom_model_data":5001}, "model": "johnpaulinsosword/water_sword"},
+{"predicate": {"custom_model_data":5002}, "model": "johnpaulinsosword/fire_sword"},
+{"predicate": {"custom_model_data":5003}, "model": "johnpaulinsosword/lightning_sword"},
+{"predicate": {"custom_model_data":5004}, "model": "johnpaulinsosword/earth_sword"},
+{"predicate": {"custom_model_data":5005}, "model": "johnpaulinsosword/air_sword"},
+{"predicate": {"custom_model_data":5006}, "model": "johnpaulinsosword/ice_sword"},
+{"predicate": {"custom_model_data":5007}, "model": "johnpaulinsosword/light_sword"},
+{"predicate": {"custom_model_data":5008}, "model": "johnpaulinsosword/dark_sword"},
+{"predicate": {"custom_model_data":5009}, "model": "johnpaulinsosword/elemental_sword"},
+{"predicate": {"custom_model_data":5010}, "model": "johnpaulinsosword/dirt"}
+
+]
+}
